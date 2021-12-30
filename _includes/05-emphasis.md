@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This is the Begigning of stanza*
+
+**This is to be highlighted :smile:**
+
+__Good to see this message__
